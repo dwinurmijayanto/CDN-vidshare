@@ -13,6 +13,7 @@ return [
         'cdn1' => 'internal',                                    // Server 1 — DO (last resort)
         'cdn2' => 'https://cdn2.vidshare.my.id/proxy.php',      // Server 2 — OLS
         'cdn3' => 'https://cdn3.vidshare.my.id/proxy.php',      // Server 3 — OLS
+         'cdn4' => 'https://cdn-vidshare.onrender.com/proxy.php',      // Server 3 — OLS
         // Setelah deploy ke Render, uncomment & isi URL di bawah:
         // 'cdn4' => 'https://NAMA-SERVICE.onrender.com/proxy.php',
     ],
